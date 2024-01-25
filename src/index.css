@@ -1,0 +1,15 @@
+:root {
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+body{
+  background: rgb(193,241,186);
+  background: linear-gradient(90deg, rgba(193,241,186,1) 0%, rgba(171,171,201,1) 37%, rgba(140,145,230,1) 74%);
+}

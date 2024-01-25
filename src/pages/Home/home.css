@@ -1,0 +1,13 @@
+
+.ContainerContentHomePage{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    width: 100%;
+   
+}
+.ContainerContentHomePage>h1{
+    font-weight: 900;
+    font-size: 4rem;
+    text-align: center;
+}

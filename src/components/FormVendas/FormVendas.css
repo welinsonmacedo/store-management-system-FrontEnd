@@ -1,0 +1,61 @@
+p{
+  background-color: #fff;
+  width: 100%;
+  padding: 3px;
+  height: 1.9rem;
+  font-size: 25px;
+}
+input{
+  width: 100%;
+  padding: 4px;
+  font-size: 25px;
+}
+select{
+  width: 100%;
+  height: 2rem;
+}
+label{
+  font-weight: 800;
+}
+button{
+  margin-top: 2rem;
+}
+.FormVendas {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+  }
+  
+  .FormVendas_1{
+    display: flex;
+    justify-content: flex-start;
+    gap: 0.5rem;
+   
+  }
+  .FormVendas_1>label{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+   
+  }
+  .item-venda {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .item-venda label {
+    margin-right: 10px;
+  }
+  
+  .item-venda button {
+    margin-left: 10px;
+  }
+  
+ 
+  
+  

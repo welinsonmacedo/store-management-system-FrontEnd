@@ -1,0 +1,15 @@
+.ContainerNavBarComercial>ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 1rem;
+    background-color: rgb(230, 224, 215);
+}
+.ContainerNavBarComercial>ul>li>a{
+    font-weight: 700;
+    font-size: 1rem;
+    
+}
+.ContainerNavBarComercial>ul>li:hover{
+    border-bottom: 2px solid green;
+}
